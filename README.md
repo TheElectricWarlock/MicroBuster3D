@@ -9,5 +9,7 @@ Feel free to do as you wish with the machine, the machine is fully open source a
 
 To do:
 -Fix some Z axis issues based on lenght of rods used for X axis. 
+
 -Reduce the printing bed size.
+
 -Create a proper BOM with all the vitamins used. 
